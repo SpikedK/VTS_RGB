@@ -105,7 +105,8 @@ async def color(vts,rainbow_timer):
         with open(full_path) as file_in:
             lines = []
             for line in file_in:
-                lines.append(line)
+                lines.append(line.strip('\n'))
+            print(lines,type(lines))
     except: 
         print("mesh file not found")
 
