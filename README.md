@@ -2,6 +2,9 @@
 
 Simple .exe plugin to trigger a rainbow animation on selected ArtMeshes for any Vtuber on Vtube Studio.
 
+Download [Link](https://github.com/SpikedK/VTS_RGB/archive/refs/heads/main.zip).
+
+
 ## Installation
 
 It is recommended to unzip the file in .\SteamLibrary\steamapps\common\VTube Studio\VTube Studio_Data\Plugins to keep things organized.
